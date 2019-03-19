@@ -1,0 +1,30 @@
+Metadata-Version: 1.0
+Name: package-root
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/Lethabo94/<package-root>
+Author: <Mduduzi_Malapane>
+Author-email: <llmolemane@gmail.com>
+License: MIT
+Description: #Function 1
+        '''Return sum of all items in array'''
+        
+        #Function 2
+        '''Return nth term in fibonacci sequence'''
+        
+        #Function 3
+        '''Return n!'''
+        
+        #Function 4
+        '''Return word in reverse'''
+        
+        #Function 5
+        '''Return array of items, sorted in ascending order'''
+        
+        #Function 6
+        '''Return array of items, sorted in ascending order'''
+        
+        #Function 7
+        '''Return array of items, sorted in ascending order'''
+        
+Platform: UNKNOWN
